@@ -27,4 +27,8 @@ My Wall-e Robot would be much simpler and would:
 2) Motors that would allow the wall-e bot to drive around (potentially shaping them like tracks rather than just wheels)
 3) Able to make sounds and play music through in built speakers (either autonomous or controlled via bluetooth)
 
+![alt text](https://github.com/Ahmed-Ismaeili/Proposal/blob/master/wall-e%20tv.jpg)
+
+https://www.youtube.com/watch?v=IJ07DcGGmMg
+
 I would like to make a fully autonomous performance reminiscent of the opening scenes of the movie Wall-e, re-telling the classic story however, I am also open to having a controlled Wall-e or at last, remote controlled/ dependant aspects as well.
